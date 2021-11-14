@@ -1,6 +1,5 @@
 // Christopher Boumalhab
-// sp21-cse-20311.01
-// mini-project
+
 
 #include "gfx.h"
 #include <math.h>
