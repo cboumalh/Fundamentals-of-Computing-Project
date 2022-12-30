@@ -9,7 +9,7 @@ I had to use a lot of trig and algebra and it also required some logic.
 
 To play the game:
 1) run the 'make' command
-2) make sure you have the Xlaunch app on the computer to set the display
+2) make sure you have the Xlaunch app on the computer to set the display (for remote running)
 3) run './project' and the screen should pop up.
 4) press on the screen to shoot!
 
